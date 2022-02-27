@@ -7,12 +7,13 @@ This is an API for a social network web application. Users can share their thoug
 
 ## Installation
 
-- npm init
+- `npm init`
 
 ## Usage
 
- - npm start
+ npm i to install the necessary dependencies. These include: mongoose.js, express.js, and moment.js. Once all dependencies are installed, run 
+ - `npm start`
 
    With Nodemon:
 
- - npm run watch
+ - `npm run watch`
