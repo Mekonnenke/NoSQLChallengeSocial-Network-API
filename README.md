@@ -3,7 +3,11 @@
 This is an API for a social network web application. Users can share their thoughts, react to friend's thoughts, and create a friends list. It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 
-💻 Below is a  walking through video link of the app:
+💻 Below is a  walking through video and github links of the app:
+
+   - github: https://github.com/Mekonnenke/NoSQLChallengeSocial-Network-API
+
+   - wakingthrough: https://youtu.be/yuESq7JHIGU
 
 ## Installation
 
@@ -26,7 +30,4 @@ This is an API for a social network web application. Users can share their thoug
 
 ![image](https://user-images.githubusercontent.com/90818220/155915861-196424c2-39c9-4b58-a84d-85f7116a33f6.png)
 
-## links:
-   - github: https://github.com/Mekonnenke/NoSQLChallengeSocial-Network-API
 
-   - wakingthrough: https://youtu.be/yuESq7JHIGU
