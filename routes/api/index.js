@@ -1,7 +1,12 @@
+// Set requirements (Express Router)
 const router = require('express').Router();
-const userRoutes = require('./user-routes');
 
-router.use('/users', userRoutes);
+const usersRoutes = require('./user-routes');
+const thoughtsRoutes = require('./thought-routes');
 
+router.use('/users', usersRoutes);
+ 
+router.use('/thoughts', thoughtsRoutes);
 
+// Export Module Router
 module.exports = router;
