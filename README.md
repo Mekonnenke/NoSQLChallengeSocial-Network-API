@@ -26,7 +26,7 @@ This is an API for a social network web application. Users can share their thoug
 
 ![image](https://user-images.githubusercontent.com/90818220/155915861-196424c2-39c9-4b58-a84d-85f7116a33f6.png)
 
-##links:
+## links:
    - github: https://github.com/Mekonnenke/NoSQLChallengeSocial-Network-API
 
    - wakingthrough: https://youtu.be/yuESq7JHIGU
